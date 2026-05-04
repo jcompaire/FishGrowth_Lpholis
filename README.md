@@ -1,4 +1,5 @@
 ## A Python script for generating figures about length-frequency distribution of *Lipophrys pholis* populations and their length-weight relationship curves
+## and an R script for conducting one-way Kruskal-Wallis and analysis of covariance (ANCOVA) tests
 
 This script will allow you to replicate the analyses performed in the manuscript: "***_Lipophrys pholis_ is larger, grows faster and is in better condition in protected than in unprotected rocky shores***". This Python code can be used for generating figures about the length frequency distribution of the populations and the length-weight relationship curves presented in the [manuscript](https://doi.org/10.1002/aqc.4083), while the R code used to compute statistical analyses is available [here](https://github.com/jcompaire/R/tree/main/FishGrowth). Our goal is to increase transparency and reproducibility in research.
 
